@@ -1,4 +1,4 @@
-# Assignment 7 - The Great Firewall of Santa Cruz
+# "The Great Firewall of Santa Cruz" [CSE 13S]
 This program filters out "badwords" using regular expressions and prints out 
 the violations made. If there is a newspeak value associated with 
 the oldspeak word, then that is also printed. 
